@@ -1,4 +1,4 @@
-# OctoPrint Automatic Shutdown
+# OctoPrint Automatic Shutdown Python3 Mod
 
 This OctoPrint plugin enables the system to be automatically shut down after a print is finished.
 
@@ -11,7 +11,7 @@ The user can enable automatic shutdown for each print by using a checkbox in the
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/OctoPrint/OctoPrint-AutomaticShutdown/archive/master.zip
+    https://github.com/linux-paul/OctoPrint-AutomaticShutdown/archive/master.zip
 
 ## Configuration
 
